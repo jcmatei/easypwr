@@ -1,0 +1,12 @@
+Package: easypwr
+Type: Package
+Title: Easy power, difference of means, and sample size analysis function.
+Version: 0.1.0
+Author: Justin Matei
+Maintainer: Justin Matei <justin.matei@yale.edu>
+Description: This package primarily consists of a single function, analyze.inputs.  The function is primarily meant to be used for studies in which power, difference in means or sample size is not known and needs to be found or projected based upon a specific indicator variable among the two known variables.The function takes these inputs of a study: Standard deviation of group A at time 0, Standard deviation of group A at time 1, Standard deviation of group B at time 0, Standard deviation of group B at time 1, rho (correlation between standard deviations), Mean of observations for group1 (A), mean of observations for group 2 (B), power ofthe study, and sample size, as well as a specification of the indicator variable in quotes.  The function will output both a storable data frame and a plot which can model multiple scenarios at a time.
+License: 
+Encoding: UTF-8
+LazyData: true
+Imports: prodlim, ggplot2
+RoxygenNote: 6.0.1

@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529598004130.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4E9AF0CA",
+    "lastKnownWriteTime" : 1534952819,
+    "last_content_update" : 1534952819227,
+    "path" : "~/Downloads/easypwr/R/Analyze.Inputs.R",
+    "project_path" : "R/Analyze.Inputs.R",
+    "properties" : {
+        "cursorPosition" : "30,0",
+        "docOutlineVisible" : "1",
+        "scrollLine" : "3",
+        "tempName" : "Untitled4"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

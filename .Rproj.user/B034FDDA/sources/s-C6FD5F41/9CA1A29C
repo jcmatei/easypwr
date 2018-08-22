@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529596468876.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2198025379",
+    "id" : "9CA1A29C",
+    "lastKnownWriteTime" : 1534952819,
+    "last_content_update" : 1534952819179,
+    "path" : "~/Downloads/easypwr/man/hello.Rd",
+    "project_path" : "man/hello.Rd",
+    "properties" : {
+        "cursorPosition" : "20,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529598144368.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AFE9F3E9",
+    "lastKnownWriteTime" : 1534948590,
+    "last_content_update" : 1534948590090,
+    "path" : "~/Downloads/easypwr/R/Indicator.sorting.R",
+    "project_path" : "R/Indicator.sorting.R",
+    "properties" : {
+        "cursorPosition" : "16,103",
+        "scrollLine" : "0",
+        "tempName" : "Untitled3"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529598000828.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "ABC8E6BF",
+    "lastKnownWriteTime" : 1529622272,
+    "last_content_update" : 1529622272113,
+    "path" : "~/Downloads/easypwr/R/analyze.variables.R",
+    "project_path" : "R/analyze.variables.R",
+    "properties" : {
+        "cursorPosition" : "66,97",
+        "scrollLine" : "0",
+        "tempName" : "Untitled3"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529598604900.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "58ACC847",
+    "lastKnownWriteTime" : 1529622271,
+    "last_content_update" : 1529622271823,
+    "path" : "~/Downloads/easypwr/R/Output.clean.R",
+    "project_path" : "R/Output.clean.R",
+    "properties" : {
+        "cursorPosition" : "21,9",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
